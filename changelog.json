@@ -1,5 +1,5 @@
 {
-    "version" : "0.4.6",
-    "updateMessage": "## Update available\nWe have made some updates to Courses in AmaraHealth. Please update the app to enjoy the updates.",
-    "changelog":  "## What's new in AmaraHealth™?\n**Courses**\\\nDiscover our simple, step-by-step courses with built-in progress tracking, designed to help you learn at your own pace – all within the ease and convenience of the app.\\\n\\\n**App Icon**\\\nWe have added support for iOS 18 app icon customisation and themed Icon for Android 13+"
+    "version" : "0.4.8",
+    "updateMessage": "## Update available\nWe've made improvements to speed up your daily tracking in AmaraHealth. Update now for a faster, smoother experience!",
+    "changelog":  "## What's new in AmaraHealth™?\n**Improved Performance**\\\nThis update is designed to improve your daily tracking experience with AmaraHealth. You can now add data faster!"
 }
