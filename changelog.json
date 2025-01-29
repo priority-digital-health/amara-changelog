@@ -1,5 +1,5 @@
 {
-    "version" : "0.4.8",
-    "updateMessage": "## Update available\nWe've made improvements to speed up your daily tracking in AmaraHealth. Update now for a faster, smoother experience!",
-    "changelog":  "## What's new in AmaraHealth™?\n**Improved Performance**\\\nThis update is designed to improve your daily tracking experience with AmaraHealth. You can now add data faster!"
+    "version" : "0.5.0",
+    "updateMessage": "## What’s New:\nYou can now quickly edit the quantities of **Food** or **Alcohol** entries or delete them, giving you greater control over your daily tracking.",
+    "changelog":  "## What's new in AmaraHealth™?\nYou can now quickly edit the quantities of **Food** or **Alcohol** entries or delete them, giving you greater control over your daily tracking."
 }
