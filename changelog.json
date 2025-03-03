@@ -1,5 +1,5 @@
 {
-    "version" : "0.5.0",
-    "updateMessage": "## Update Available!\nYou can now quickly edit the quantities of **Food** or **Alcohol** entries or delete them, giving you greater control over your daily tracking.",
-    "changelog":  "## What's new in AmaraHealth™?\nYou can now quickly edit the quantities of **Food** or **Alcohol** entries or delete them, giving you greater control over your daily tracking."
+    "version" : "1.0.0",
+    "updateMessage": "## Update Available!\nWe’ve redesigned the dashboard for a more intuitive experience! Enjoy a fresh new look with enhanced tracker insights, easy access to upcoming events, relevant articles, and a clearer view of your ongoing challenges and course.",
+    "changelog":  "## What's new in AmaraHealth™?\nWe’ve redesigned the dashboard for a more intuitive experience! Enjoy a fresh new look with enhanced tracker insights, easy access to upcoming events, relevant articles, and a clearer view of your ongoing challenges and course."
 }
