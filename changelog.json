@@ -1,5 +1,5 @@
 {
-    "version" : "1.0.0",
-    "updateMessage": "## Update Available!\nWe’ve redesigned the dashboard for a more intuitive experience! Enjoy a fresh new look with enhanced tracker insights, easy access to upcoming events, relevant articles, and a clearer view of your ongoing challenges and course.",
-    "changelog":  "## What's new in AmaraHealth™?\nWe’ve redesigned the dashboard for a more intuitive experience! Enjoy a fresh new look with enhanced tracker insights, easy access to upcoming events, relevant articles, and a clearer view of your ongoing challenges and course."
+    "version" : "1.2.0",
+    "updateMessage": "## Update Available!\nMade a mistake? You can now delete entries from any of your trackers and edit quantities with ease. Just head to the Insights page for any tracker and select ‘All Data’ to view, update quantities, or remove your tracking data.",
+    "changelog": "## What's new in AmaraHealth™?\nMade a mistake? You can now delete entries from any of your trackers and edit quantities with ease. Just head to the Insights page for any tracker and select ‘All Data’ to view, update quantities, or remove your tracking data."
 }
