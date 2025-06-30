@@ -1,5 +1,5 @@
 {
-    "version" : "1.2.0",
-    "updateMessage": "## Update Available!\nMade a mistake? You can now delete entries from any of your trackers and edit quantities with ease. Just head to the Insights page for any tracker and select ‘All Data’ to view, update quantities, or remove your tracking data.",
-    "changelog": "## What's new in AmaraHealth™?\nMade a mistake? You can now delete entries from any of your trackers and edit quantities with ease. Just head to the Insights page for any tracker and select ‘All Data’ to view, update quantities, or remove your tracking data."
+    "version" : "1.3.0",
+    "updateMessage": "## Update Available!\nTrack your BMI - Your BMI is now shown on the Weight Insights page and updates automatically whenever you log a new weight.",
+    "changelog": "## What's new in AmaraHealth™?\nTrack your BMI - Your BMI is now shown on the Weight Insights page and updates automatically whenever you log a new weight."
 }
