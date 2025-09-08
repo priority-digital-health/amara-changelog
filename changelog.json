@@ -1,5 +1,5 @@
 {
-    "version" : "1.3.0",
-    "updateMessage": "## Update Available!\nTrack your BMI - Your BMI is now shown on the Weight Insights page and updates automatically whenever you log a new weight.",
-    "changelog": "## What's new in AmaraHealth™?\nTrack your BMI - Your BMI is now shown on the Weight Insights page and updates automatically whenever you log a new weight."
+    "version" : "1.5.0",
+    "updateMessage": "## Update Available!\nLogged out of the app? Got a new phone? It's now even easier to get back into AmaraHealth! Simply enter your registered email address, and we'll send you a one-time login link to access your account instantly - no password needed.",
+    "changelog": "## What's new in AmaraHealth™?\nIt's now even easier to login to AmaraHealth! Simply enter your registered email address, and we'll send you a one-time login link to access your account instantly - no password needed."
 }
