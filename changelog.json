@@ -1,5 +1,8 @@
 {
-    "version" : "1.5.0",
-    "updateMessage": "## Update Available!\nLogged out of the app? Got a new phone? It's now even easier to get back into AmaraHealth! Simply enter your registered email address, and we'll send you a one-time login link to access your account instantly - no password needed.",
-    "changelog": "## What's new in AmaraHealth™?\nIt's now even easier to login to AmaraHealth! Simply enter your registered email address, and we'll send you a one-time login link to access your account instantly - no password needed."
+    "version" : "1.6.0",
+    "updateMessage": "## Update Available!\nWe’ve made some big improvements to **Food Tracking**, making it faster, smarter, and more flexible.\n##Scan Barcodes\nYou can now scan barcodes from thousands of popular branded products using your smartphone camera — adds items to your Food Diary instantly.\n##Custom Portion Sizes\nDon’t see the portion size you need? No problem! You can now enter custom amounts to match exactly what you’ve eaten.\n##Macros Made Easy\nGet deeper insights into your nutrition with a breakdown of **carbs, protein, and fats** for the food you log.",
+    "changelog": "## What's new in AmaraHealth™?\nWe’ve made some big improvements to **Food Tracking**, making it faster, smarter, and more flexible.\n##Scan Barcodes\nYou can now scan barcodes from thousands of popular branded products using your smartphone camera — adds items to your Food Diary instantly.\n##Custom Portion Sizes\nDon’t see the portion size you need? No problem! You can now enter custom amounts to match exactly what you’ve eaten.\n##Macros Made Easy\nGet deeper insights into your nutrition with a breakdown of **carbs, protein, and fats** for the food you log."
 }
+
+
+
