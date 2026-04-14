@@ -1,6 +1,6 @@
 {
-  "version" : "1.8.5",
-  "updateMessage": "## Update Available!\nTrack calories burned during workouts and see your remaining calories for the day in AmaraHealth™.",
-  "changelog": "## What’s new in AmaraHealth™?\nYou can now track calories burned during workouts. See your remaining calories for the day to help balance what you eat with what you burn."
+  "version" : "1.8.6",
+  "updateMessage": "## What’s new in AmaraHealth™\nAlcohol tracking is now fully integrated. Alcoholic drinks now count towards your calories and sync seamlessly between the Alcohol and Food Trackers.",
+  "changelog": "## What’s new in AmaraHealth™\nAlcohol tracking is now fully integrated. Alcoholic drinks now count towards your calories and sync seamlessly between the Alcohol and Food Trackers."
 }
 
