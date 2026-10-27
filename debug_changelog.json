@@ -1,6 +1,5 @@
 {
-  "version" : "1.8.6",
-  "updateMessage": "## Update Available!\nGet calories from alcoholic drinks added to your daily total, for a complete view of your intake.",
-  "changelog": "## What's new in AmaraHealth™?\nAlcohol tracking is now fully integrated. Alcoholic drinks now count towards your calories and sync seamlessly between the Alcohol and Food Trackers."
+  "version" : "2.1.0",
+  "updateMessage": "## Update Available!\nNew achievements and enhanced notifications are now available.",
+  "changelog": "## What’s new in AmaraHealth?\nEarn badges as you reach your goals and get enhanced reminders to stay motivated and on track."
 }
-
